@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "ime": "Patrik",
+    "prezime": "Fabijanic",
+    "godine_staza": 3,
+    "pozicija": "sef"
+  },
+  {
+    "id": 2,
+    "ime": "Morena",
+    "prezime": "Gaber",
+    "godine_staza": 7,
+    "pozicija": "cistac"
+  },
+  {
+    "id": 3,
+    "ime": "Karlo",
+    "prezime": "Kackanj",
+    "godine_staza": 1,
+    "pozicija": "voditelj"
+  },
+  {
+    "ime": "Mirko",
+    "prezime": "Miocic",
+    "godine_staza": 12,
+    "pozicija": "voditelj",
+    "id": 4
+  }
+]
